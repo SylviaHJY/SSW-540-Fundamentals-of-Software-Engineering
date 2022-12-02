@@ -1,0 +1,14 @@
+X-DSPAM-Confidence:abc
+hello Hello world, World, woRLD, HELLo.wROlD!!
+This is a beautiful day! Hello!!! World!!
+I love this wonderful weather!!
+
+We also want to collapse upper and lower case characters so "Hello" and "hello" are both included as "hello". 
+We can use the string.lower() function to accomplish this. e.g. "HeLlO tHeRe".lower() returns "hello there".
+
+Recently, there have been some exciting innovations in the app again. In addition to some improvements, two new modules have also found their way into the editor – in addition to the highlights, the comprehensive tables module. 
+With the new Media Gallery you can now upload your own images and the settings have also been cleaned up. Subscriptions are now usable with your account on all platforms.
+
+From the very beginning, the editor was a main component of the app. Now some new modules have been added, such as tables, highlights and the general speed of the editor has been improved.
+
+The new tables help to better present data in your book. They save you the hassle of aligning text with appropriate spacing. Use the tables with the appropriate new tools to add or remove individual cells and rows.
